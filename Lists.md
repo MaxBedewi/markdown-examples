@@ -23,7 +23,7 @@
 ### Rings of Power
 
 - Three rings for the Elven-kings
-- Seven for the Drawf-lords
+- Seven for the Dwarf-lords
 - Nine for the Mortal Men
 - One for the Dark Lord
 
